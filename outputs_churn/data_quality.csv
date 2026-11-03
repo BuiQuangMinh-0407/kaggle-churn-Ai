@@ -1,0 +1,16 @@
+,train
+dòng trùng hoàn toàn,120
+customer_id trùng sau khi bỏ dòng trùng,0
+gender: số cách viết,8
+province: số cách viết,41
+occupation: số cách viết,15
+"currency: viết thường ""vnd""",60
+bank_code: số giá trị (1 = cột hằng),1
+income_month ghi theo VND (≥ 100.000),106
+credit_limit ghi theo VND (≥ 100.000),247
+"age ngoài 18–100 (0, 1, 150, 200, 999)",69
+utilization_6m = -1 (mã thiếu),40
+"utilization_6m > 2 (9.99, 15: mã lỗi)",39
+open_date dạng dd/mm/yyyy,3024
+open_date dạng yyyymmdd,615
+"txn_amount_3m âm (hoàn tiền > chi tiêu, giữ nguyên)",170

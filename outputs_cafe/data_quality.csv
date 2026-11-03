@@ -1,0 +1,13 @@
+,số lượng
+train: dòng trùng hoàn toàn,132
+"train: cùng (ngày, cửa hàng) nhưng khác doanh thu",0
+train: doanh thu > 1000 (nhập theo nghìn VND),31
+train: ngày đột biến > 4× trung vị cửa hàng,51
+stores: store_type viết hoa/thường lẫn lộn,4
+stores: district viết kiểu Q.10 / Quan 3 / Quan 7,6
+stores: open_date dạng dd/mm/yyyy,15
+stores: thiếu area_m2,2
+weather: nhiệt độ ghi theo °F (> 55),22
+weather: thiếu rain_mm,16
+weather: thiếu cả ngày (thành phố × ngày),49
+holidays: ngày có 2 sự kiện,2
